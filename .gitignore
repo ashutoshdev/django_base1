@@ -1,0 +1,29 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+*.ipynb
+*.ipynb_checkpoints
+/venv
+
+
+# pycharm stuff #
+.idea/
+
+
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+
+# env 
+.env
+.env.example
+.env.local
+.env.staging
